@@ -10,6 +10,7 @@ import org.springframework.web.client.RestTemplate;
 @SpringBootApplication
 @EnableFeignClients
 @EnableDiscoveryClient
+// 真的恶心
 public class ConsumerApplication {
 
     @Bean
